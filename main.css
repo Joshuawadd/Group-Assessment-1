@@ -1,9 +1,10 @@
 body {
     background-color: #30332E;
     color: #FFFBFC;
+	text-align: center;
+	
 }
 
 nav li {
     padding-right:0.7em;
 }
-
