@@ -1,8 +1,16 @@
 body {
     background-color: #30332E;
     color: #FFFBFC;
-	text-align: center;
 	
+	
+}
+
+.body {
+    text-align: center;
+    margin-top: 2em;
+    margin-left:1em;
+    margin-right:1em;
+
 }
 
 nav li {
