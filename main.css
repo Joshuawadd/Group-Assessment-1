@@ -1,5 +1,9 @@
 body {
-    background-color: #39393A;
-    color: #ffffff;
+    background-color: 30332E;
+    color: #FFFBFC;
+}
+
+nav li {
+    padding-right:0.7em;
 }
 
