@@ -15,4 +15,17 @@ body {
 
 nav li {
     padding-right:0.7em;
+	text-align: left;
 }
+
+li {
+	text-align: left;
+    list-style-position: inside;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
